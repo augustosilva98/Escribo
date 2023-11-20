@@ -1,6 +1,4 @@
-# Escribo
-
-O código em JavaScript que você me enviou é um exemplo de um aplicativo web simples que implementa um sistema de autenticação de usuários. O aplicativo tem três endpoints:
+O aplicativo tem três endpoints:
 
 /signup: Cria um novo usuário.
 /signin: Autentica um usuário existente.
